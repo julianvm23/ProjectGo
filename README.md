@@ -1,7 +1,7 @@
-Pullen naar git:
-   git pull
+Pullen naar git:  
+   git pull  
 
-Pushen naar git:
-   git add .
-   git commit -m "tekst"
-   git push
+Pushen naar git:  
+   git add .  
+   git commit -m "tekst"  
+   git push  
