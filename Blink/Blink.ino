@@ -51,4 +51,5 @@ void loop() {
   leds[0] = CRGB::Black;
   FastLED.show();
   delay(500);
+  Serial.println("test Julian");
 }
