@@ -2,7 +2,7 @@ Pushen en pullen naar git:
 =======
 
 De eerste keer:  
-git clone LINK_NAAR_REPO
+git clone LINK_NAAR_REPO  
 
 Pullen van git:  
 (Doe dit aan het begin van elke sessie)  
@@ -12,3 +12,9 @@ Pushen naar git:
    git add .  
    git commit -m "tekst"  
    git push  
+
+Als je elke keer moet inloggen kan je gebruik maken van een SSH-key  
+Je kopieert hem via  
+clip < ~/.ssh/id_rsa.pub  
+Voeg de gekopieerde key toe aan:  
+https://github.com/settings/keys  
