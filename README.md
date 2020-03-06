@@ -1,4 +1,4 @@
-Pullen naar git:  
+Pullen van git:  
    git pull  
 
 Pushen naar git:  
