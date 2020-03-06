@@ -9,7 +9,7 @@
 #define DATA_PIN 3
 #define CLOCK_PIN 13
 
-// Define the array of leds
+// Define the array of leds comment HIERO
 CRGB leds[NUM_LEDS];
 
 void setup() { 
