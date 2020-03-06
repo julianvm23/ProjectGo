@@ -4,7 +4,8 @@ Pushen en pullen naar git:
 De eerste keer:  
 git clone LINK_NAAR_REPO
 
-Pullen van git:   (Doe dit aan het begin van een sessie)  
+Pullen van git:  
+(Doe dit aan het begin van ELKE sessie)  
 git pull  
 
 Pushen naar git:  
