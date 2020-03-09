@@ -13,6 +13,9 @@ Pushen naar git:
    git commit -m "tekst"  
    git push  
 
+Git Merge conflict(Als je in een conflict zit en er niet uit kan komen gebruik volgend command)  
+git reset --hard HEAD
+
 Als je elke keer moet inloggen kan je gebruik maken van een SSH-key  
 Je kopieert hem via  
 clip < ~/.ssh/id_rsa.pub  
